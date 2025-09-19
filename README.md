@@ -1,4 +1,4 @@
-**Travel Booking Site**
+**Travel Booking Site**:
 A front-end prototype of a travel booking application designed with React.JS! Currently focused on delivaring a responsive UI, clean component structure, and modern web design.
 
 **Features**
