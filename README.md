@@ -1,5 +1,5 @@
 # Travel Booking Site ✈️ 
-A front-end prototype of a travel booking application designed with React.JS! Currently focused on delivaring a responsive UI, clean component structure, and modern web design.
+A front-end prototype of a travel booking application designed with React.JS! Currently focused on delivering a responsive UI, clean component structure, and modern web design.
 
 ## Features
 - Destination preview cards with images and descriptions
@@ -11,6 +11,9 @@ A front-end prototype of a travel booking application designed with React.JS! Cu
 - React.js (component structure, JSX, hooks: useEffect, useState)
 - HTML5
 - CSS3 (grid, flexbox)
+
+## Quick Demo Vid
+[![Watch demo](https://img.youtube.com/vi/951J_qafL4o/hqdefault.jpg)](https://youtu.be/951J_qafL4o)
 
 ## Future Work...
 - Add search & filter functionality for destinations
